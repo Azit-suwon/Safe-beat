@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- 하트 + 심박선 -->
+    <path android:fillColor="#F04438"
+        android:pathData="M54,78 L34,58 C27,51 28,40 37,37 C43,35 49,38 54,44 C59,38 65,35 71,37 C80,40 81,51 74,58 Z" />
+    <path android:strokeColor="#FFFFFF" android:strokeWidth="3" android:fillColor="#00000000"
+        android:strokeLineJoin="round"
+        android:pathData="M30,54 L44,54 L48,46 L54,62 L58,50 L62,54 L78,54" />
+</vector>
